@@ -4,7 +4,9 @@ Ethereum Execution Tests (EVM)   [![Build Status](https://travis-ci.org/ethereum
 Common tests for all clients to test against. Test execution tool: https://github.com/ethereum/retesteth
 
 Test Formats
-------------
+------------![1719285009005](https://github.com/ethereum/tests/assets/168502241/ac330e38-f710-4fe0-b393-3d4408e7cf41)
+![Screenshot_20240626-030038](https://github.com/ethereum/tests/assets/168502241/8a1d37b5-a288-433b-b460-c1cae20657cd)
+
 
 Maintained tests:
 
